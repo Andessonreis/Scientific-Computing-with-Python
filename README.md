@@ -1,5 +1,3 @@
-# Scientific-Computing-with-Python
-
 # Projetos de Computação Científica com Python
 
 Este repositório contém os projetos de Computação Científica com Python. Esses projetos foram desenvolvidos como parte do curso do freecodecamp
